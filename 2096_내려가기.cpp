@@ -25,7 +25,6 @@ int main() {
 		dpMax[1] = big(tmp0, tmp1, tmp2) + b;
 		dpMax[2] = big(tmp1, tmp2) + c;
 		
-		
 		tmp0 = dpMin[0], tmp1 = dpMin[1], tmp2 = dpMin[2];
 		dpMin[0] = small(tmp0, tmp1) + a;
 		dpMin[1] = small(tmp0, tmp1, tmp2) + b;
