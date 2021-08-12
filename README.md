@@ -13,6 +13,8 @@ Beakjoon Online Judge 문제풀이 - C++
  
  [2096 내려가기](./2096_내려가기.cpp)　|　[HYEZ_DEV VELOG](https://velog.io/@hyez_dev/%EB%B0%B1%EC%A4%80-2096-%EB%82%B4%EB%A0%A4%EA%B0%80%EA%B8%B0-C)
  
+ [2143 두 배열의 합](./2143_두배열의합.cpp)　|　[HYEZ_DEV VELOG](https://velog.io/@hyez_dev/%EB%B0%B1%EC%A4%80-2143-%EB%91%90-%EB%B0%B0%EC%97%B4%EC%9D%98-%ED%95%A9-C)
+ 
 <br>
 
 ## ◾ Study Log
@@ -21,4 +23,5 @@ Beakjoon Online Judge 문제풀이 - C++
 > 2021-08-10-TUE #1713 후보 추천하기
 > 2021-08-11-WED #7453 합이 0인 네 정수
 > 2021-08-11-WED #2096 내려가기
+> 2021-08-12-THU #2143 두 배열의 합
 > ```
