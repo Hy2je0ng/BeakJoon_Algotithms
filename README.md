@@ -15,6 +15,10 @@ Beakjoon Online Judge 문제풀이 - C++
  
  [2143 두 배열의 합](./2143_두배열의합.cpp)　|　[HYEZ_DEV VELOG](https://velog.io/@hyez_dev/%EB%B0%B1%EC%A4%80-2143-%EB%91%90-%EB%B0%B0%EC%97%B4%EC%9D%98-%ED%95%A9-C)
  
+ [1927 최소 힙](./1927_최소힙.cpp)　|　[HYEZ_DEV VELOG](https://velog.io/@hyez_dev/%EB%B0%B1%EC%A4%80-1927-%EC%B5%9C%EC%86%8C-%ED%9E%99-C)
+ 
+ [11279 최대 힙](./11279_최대힙.cpp)　|　[HYEZ_DEV VELOG](https://velog.io/@hyez_dev/%EB%B0%B1%EC%A4%80-11279-%EC%B5%9C%EB%8C%80-%ED%9E%99-C)
+ 
 <br>
 
 ## ◾ Study Log
@@ -24,4 +28,6 @@ Beakjoon Online Judge 문제풀이 - C++
 > 2021-08-11-WED #7453 합이 0인 네 정수
 > 2021-08-11-WED #2096 내려가기
 > 2021-08-12-THU #2143 두 배열의 합
+> 2021-08-12-THU #1927 최소 힙
+> 2021-08-12-THU #11279 최대 힙
 > ```
