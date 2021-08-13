@@ -19,6 +19,8 @@ Beakjoon Online Judge 문제풀이 - C++
  
  [11279 최대 힙](./11279_최대힙.cpp)　|　[HYEZ_DEV VELOG](https://velog.io/@hyez_dev/%EB%B0%B1%EC%A4%80-11279-%EC%B5%9C%EB%8C%80-%ED%9E%99-C)
  
+ [14476 최대공약수 하나 빼기](./14476_최대공약수하나빼기.cpp)　|　[HYEZ_DEV VELOG](https://velog.io/@hyez_dev/%EB%B0%B1%EC%A4%80-14476-%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98-%ED%95%98%EB%82%98-%EB%B9%BC%EA%B8%B0-C)
+ 
 <br>
 
 ## ◾ Study Log
@@ -30,4 +32,5 @@ Beakjoon Online Judge 문제풀이 - C++
 > 2021-08-12-THU #2143 두 배열의 합
 > 2021-08-12-THU #1927 최소 힙
 > 2021-08-12-THU #11279 최대 힙
+> 2021-08-13-FRI #14476 최대공약수 하나 빼기
 > ```
