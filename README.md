@@ -21,6 +21,8 @@ Beakjoon Online Judge 문제풀이 - C++
  
  [14476 최대공약수 하나 빼기](./14476_최대공약수하나빼기.cpp)　|　[HYEZ_DEV VELOG](https://velog.io/@hyez_dev/%EB%B0%B1%EC%A4%80-14476-%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98-%ED%95%98%EB%82%98-%EB%B9%BC%EA%B8%B0-C)
  
+ [1644 소수의연속합](./1644_소수의연속합.cpp)　|　[HYEZ_DEV VELOG](https://velog.io/@hyez_dev/%EB%B0%B1%EC%A4%80-1644-%EC%86%8C%EC%88%98%EC%9D%98-%EC%97%B0%EC%86%8D%ED%95%A9-C)
+ 
 <br>
 
 ## ◾ Study Log
@@ -33,4 +35,5 @@ Beakjoon Online Judge 문제풀이 - C++
 > 2021-08-12-THU #1927 최소 힙
 > 2021-08-12-THU #11279 최대 힙
 > 2021-08-13-FRI #14476 최대공약수 하나 빼기
+> 2021-08-13-FRI #1644 소수의연속합
 > ```
