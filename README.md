@@ -23,6 +23,10 @@ Beakjoon Online Judge 문제풀이 - C++
  
  [1644 소수의연속합](./1644_소수의연속합.cpp)　|　[HYEZ_DEV VELOG](https://velog.io/@hyez_dev/%EB%B0%B1%EC%A4%80-1644-%EC%86%8C%EC%88%98%EC%9D%98-%EC%97%B0%EC%86%8D%ED%95%A9-C)
  
+ [10828 스택](./10828_스택.cpp)　|　[HYEZ_DEV VELOG](https://velog.io/@hyez_dev/%EB%B0%B1%EC%A4%80-10828-%EC%8A%A4%ED%83%9D-C)
+ 
+[10845 큐](./10845_큐.cpp) 　|　[HYEZ_DEV VELOG](https://velog.io/@hyez_dev/%EB%B0%B1%EC%A4%80-10845-%ED%81%90-C)
+
 <br>
 
 ## ◾ Study Log
@@ -36,4 +40,6 @@ Beakjoon Online Judge 문제풀이 - C++
 > 2021-08-12-THU #11279 최대 힙
 > 2021-08-13-FRI #14476 최대공약수 하나 빼기
 > 2021-08-13-FRI #1644 소수의연속합
+> 2021-08-17-TUE #10828 스택
+> 2021-08-17-TUE #10845 큐 
 > ```
