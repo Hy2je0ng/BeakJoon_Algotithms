@@ -27,6 +27,8 @@ Beakjoon Online Judge 문제풀이 - C++
  
 [10845 큐](./10845_큐.cpp) 　|　[HYEZ_DEV VELOG](https://velog.io/@hyez_dev/%EB%B0%B1%EC%A4%80-10845-%ED%81%90-C)
 
+[1991 트리순회](./1991_트리순회.cpp)　|　[HYEZ_DEV VELOG](https://velog.io/@hyez_dev/%EB%B0%B1%EC%A4%80-1991-%ED%8A%B8%EB%A6%AC-%EC%88%9C%ED%9A%8C-C)
+
 <br>
 
 ## ◾ Study Log
@@ -41,5 +43,6 @@ Beakjoon Online Judge 문제풀이 - C++
 > 2021-08-13-FRI #14476 최대공약수 하나 빼기
 > 2021-08-13-FRI #1644 소수의연속합
 > 2021-08-17-TUE #10828 스택
-> 2021-08-17-TUE #10845 큐 
+> 2021-08-17-TUE #10845 큐
+> 2021-08-18-WED #1991 트리순회
 > ```
