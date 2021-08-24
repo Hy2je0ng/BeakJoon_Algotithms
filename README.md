@@ -29,6 +29,7 @@ Beakjoon Online Judge 문제풀이 - C++
 
 [1991 트리순회](./1991_트리순회.cpp)　|　[HYEZ_DEV VELOG](https://velog.io/@hyez_dev/%EB%B0%B1%EC%A4%80-1991-%ED%8A%B8%EB%A6%AC-%EC%88%9C%ED%9A%8C-C)
 
+[11003 최솟값찾기](./11003_최솟값찾기.cpp)　|　[HYEZ_DEV VELOG](https://velog.io/@hyez_dev/%EB%B0%B1%EC%A4%80-11003-%EC%B5%9C%EC%86%9F%EA%B0%92-%EC%B0%BE%EA%B8%B0-C)
 <br>
 
 ## ◾ Study Log
@@ -45,4 +46,5 @@ Beakjoon Online Judge 문제풀이 - C++
 > 2021-08-17-TUE #10828 스택
 > 2021-08-17-TUE #10845 큐
 > 2021-08-18-WED #1991 트리순회
+> 2021-08-24-TUE #11003 최솟값찾기
 > ```
