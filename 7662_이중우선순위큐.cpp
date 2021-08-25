@@ -28,11 +28,9 @@ int main() {
 			else if(c == 'D'){
 				if(!ms.empty()){
 					if(x == 1){
-						// 최댓값 삭제
 						ms.erase(--ms.end());
 					}
 					else{
-						// 최솟값 삭제 
 						ms.erase(ms.begin());
 					}
 				}
