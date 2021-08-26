@@ -21,21 +21,21 @@ Beakjoon Online Judge 문제풀이 - C++
  
  [14476 최대공약수 하나 빼기](./14476_최대공약수하나빼기.cpp)　|　[HYEZ_DEV VELOG](https://velog.io/@hyez_dev/%EB%B0%B1%EC%A4%80-14476-%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98-%ED%95%98%EB%82%98-%EB%B9%BC%EA%B8%B0-C)
  
- [1644 소수의연속합](./1644_소수의연속합.cpp)　|　[HYEZ_DEV VELOG](https://velog.io/@hyez_dev/%EB%B0%B1%EC%A4%80-1644-%EC%86%8C%EC%88%98%EC%9D%98-%EC%97%B0%EC%86%8D%ED%95%A9-C)
+ [1644 소수의 연속 합](./1644_소수의연속합.cpp)　|　[HYEZ_DEV VELOG](https://velog.io/@hyez_dev/%EB%B0%B1%EC%A4%80-1644-%EC%86%8C%EC%88%98%EC%9D%98-%EC%97%B0%EC%86%8D%ED%95%A9-C)
  
  [10828 스택](./10828_스택.cpp)　|　[HYEZ_DEV VELOG](https://velog.io/@hyez_dev/%EB%B0%B1%EC%A4%80-10828-%EC%8A%A4%ED%83%9D-C)
  
 [10845 큐](./10845_큐.cpp) 　|　[HYEZ_DEV VELOG](https://velog.io/@hyez_dev/%EB%B0%B1%EC%A4%80-10845-%ED%81%90-C)
 
-[1991 트리순회](./1991_트리순회.cpp)　|　[HYEZ_DEV VELOG](https://velog.io/@hyez_dev/%EB%B0%B1%EC%A4%80-1991-%ED%8A%B8%EB%A6%AC-%EC%88%9C%ED%9A%8C-C)
+[1991 트리 순회](./1991_트리순회.cpp)　|　[HYEZ_DEV VELOG](https://velog.io/@hyez_dev/%EB%B0%B1%EC%A4%80-1991-%ED%8A%B8%EB%A6%AC-%EC%88%9C%ED%9A%8C-C)
 
-[11003 최솟값찾기](./11003_최솟값찾기.cpp)　|　[HYEZ_DEV VELOG](https://velog.io/@hyez_dev/%EB%B0%B1%EC%A4%80-11003-%EC%B5%9C%EC%86%9F%EA%B0%92-%EC%B0%BE%EA%B8%B0-C)
+[11003 최솟값 찾기](./11003_최솟값찾기.cpp)　|　[HYEZ_DEV VELOG](https://velog.io/@hyez_dev/%EB%B0%B1%EC%A4%80-11003-%EC%B5%9C%EC%86%9F%EA%B0%92-%EC%B0%BE%EA%B8%B0-C)
 
-[7662 이중우선순위큐](./7662_이중우선순위큐.cpp)　|　[HYEZ_DEV VELOG](https://velog.io/@hyez_dev/%EB%B0%B1%EC%A4%80-7662-%EC%9D%B4%EC%A4%91-%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84-%ED%81%90-C)
+[7662 이중 우선순위 큐](./7662_이중우선순위큐.cpp)　|　[HYEZ_DEV VELOG](https://velog.io/@hyez_dev/%EB%B0%B1%EC%A4%80-7662-%EC%9D%B4%EC%A4%91-%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84-%ED%81%90-C)
 
-[1655 가운데를말해요](./1655_가운데를말해요.cpp)　|　[HYEZ_DEV VELOG](https://velog.io/@hyez_dev/%EB%B0%B1%EC%A4%80-1655-%EA%B0%80%EC%9A%B4%EB%8D%B0%EB%A5%BC-%EB%A7%90%ED%95%B4%EC%9A%94-C)
+[1655 가운데를 말해요](./1655_가운데를말해요.cpp)　|　[HYEZ_DEV VELOG](https://velog.io/@hyez_dev/%EB%B0%B1%EC%A4%80-1655-%EA%B0%80%EC%9A%B4%EB%8D%B0%EB%A5%BC-%EB%A7%90%ED%95%B4%EC%9A%94-C)
 
-[1202 보석도둑](./1202_보석도둑.cpp)　|　[HYEZ_DEV VELOG](https://velog.io/@hyez_dev/%EB%B0%B1%EC%A4%80-1202-%EB%B3%B4%EC%84%9D-%EB%8F%84%EB%91%91-C)
+[1202 보석 도둑](./1202_보석도둑.cpp)　|　[HYEZ_DEV VELOG](https://velog.io/@hyez_dev/%EB%B0%B1%EC%A4%80-1202-%EB%B3%B4%EC%84%9D-%EB%8F%84%EB%91%91-C)
 
 <br>
 
@@ -49,12 +49,12 @@ Beakjoon Online Judge 문제풀이 - C++
 > 2021-08-12-THU #1927 최소 힙
 > 2021-08-12-THU #11279 최대 힙
 > 2021-08-13-FRI #14476 최대공약수 하나 빼기
-> 2021-08-13-FRI #1644 소수의연속합
+> 2021-08-13-FRI #1644 소수의 연속합
 > 2021-08-17-TUE #10828 스택
 > 2021-08-17-TUE #10845 큐
-> 2021-08-18-WED #1991 트리순회
-> 2021-08-24-TUE #11003 최솟값찾기
-> 2021-08-25-WED #7662 이중우선순위큐
-> 2021-08-25-WED #1655 가운데를말해요
-> 2021-08-26-TUE #1202 보석도둑
+> 2021-08-18-WED #1991 트리 순회
+> 2021-08-24-TUE #11003 최솟값 찾기
+> 2021-08-25-WED #7662 이중 우선순위 큐
+> 2021-08-25-WED #1655 가운데를 말해요
+> 2021-08-26-TUE #1202 보석 도둑
 > ```
