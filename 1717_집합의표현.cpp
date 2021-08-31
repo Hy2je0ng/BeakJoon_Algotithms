@@ -31,7 +31,7 @@ int main() {
         int cmd, a, b;
 		scanf("%d %d %d", &cmd, &a, &b);
        
-		if (cmd == 0) { // ЧеС§Че
+		if (cmd == 0) {
 			unionF(a, b);
 		}
 		else {
