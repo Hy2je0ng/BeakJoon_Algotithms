@@ -37,6 +37,8 @@ Beakjoon Online Judge 문제풀이 - C++
 
 [1202 보석 도둑](./1202_보석도둑.cpp)　|　[HYEZ_DEV VELOG](https://velog.io/@hyez_dev/%EB%B0%B1%EC%A4%80-1202-%EB%B3%B4%EC%84%9D-%EB%8F%84%EB%91%91-C)
 
+[1717 집합의표현](./1717_집합의표현.cpp)　|　[HYEZ_DEV VELOG](https://velog.io/@hyez_dev/%EB%B0%B1%EC%A4%80-1717-%EC%A7%91%ED%95%A9%EC%9D%98-%ED%91%9C%ED%98%84-C)
+
 <br>
 
 ## ◾ Study Log
@@ -56,5 +58,6 @@ Beakjoon Online Judge 문제풀이 - C++
 > 2021-08-24-TUE #11003 최솟값 찾기
 > 2021-08-25-WED #7662 이중 우선순위 큐
 > 2021-08-25-WED #1655 가운데를 말해요
-> 2021-08-26-TUE #1202 보석 도둑
+> 2021-08-26-THU #1202 보석 도둑
+> 2021-08-31-TUE #1717 집합의 
 > ```
