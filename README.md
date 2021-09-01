@@ -37,7 +37,9 @@ Beakjoon Online Judge 문제풀이 - C++
 
 [1202 보석 도둑](./1202_보석도둑.cpp)　|　[HYEZ_DEV VELOG](https://velog.io/@hyez_dev/%EB%B0%B1%EC%A4%80-1202-%EB%B3%B4%EC%84%9D-%EB%8F%84%EB%91%91-C)
 
-[1717 집합의표현](./1717_집합의표현.cpp)　|　[HYEZ_DEV VELOG](https://velog.io/@hyez_dev/%EB%B0%B1%EC%A4%80-1717-%EC%A7%91%ED%95%A9%EC%9D%98-%ED%91%9C%ED%98%84-C)
+[1717 집합의 표현](./1717_집합의표현.cpp)　|　[HYEZ_DEV VELOG](https://velog.io/@hyez_dev/%EB%B0%B1%EC%A4%80-1717-%EC%A7%91%ED%95%A9%EC%9D%98-%ED%91%9C%ED%98%84-C)
+
+[2252 줄 세우기](./2252_줄세우기.cpp)　|　[HYEZ_DEV VELOG](https://velog.io/@hyez_dev/%EB%B0%B1%EC%A4%80-2252-%EC%A4%84-%EC%84%B8%EC%9A%B0%EA%B8%B0-C)
 
 <br>
 
@@ -59,5 +61,6 @@ Beakjoon Online Judge 문제풀이 - C++
 > 2021-08-25-WED #7662 이중 우선순위 큐
 > 2021-08-25-WED #1655 가운데를 말해요
 > 2021-08-26-THU #1202 보석 도둑
-> 2021-08-31-TUE #1717 집합의 
+> 2021-08-31-TUE #1717 집합의 표현
+> 2021-09-01-WED #2252 줄 세우기
 > ```
