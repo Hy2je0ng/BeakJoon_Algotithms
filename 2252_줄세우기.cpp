@@ -43,7 +43,6 @@ int main() {
 				q.push(graph[front][i]);
 			}
 		}
-
 	}
     
 	return 0;
