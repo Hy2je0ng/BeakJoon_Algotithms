@@ -41,6 +41,8 @@ Beakjoon Online Judge 문제풀이 - C++
 
 [2252 줄 세우기](./2252_줄세우기.cpp)　|　[HYEZ_DEV VELOG](https://velog.io/@hyez_dev/%EB%B0%B1%EC%A4%80-2252-%EC%A4%84-%EC%84%B8%EC%9A%B0%EA%B8%B0-C)
 
+[1197 최소 스패닝 트리](./1197_최소스패닝트리.cpp)　|　[HYEZ_DEV VELOG](https://velog.io/@hyez_dev/%EB%B0%B1%EC%A4%80-1197-%EC%B5%9C%EC%86%8C-%EC%8A%A4%ED%8C%A8%EB%8B%9D-%ED%8A%B8%EB%A6%AC-C)
+
 <br>
 
 ## ◾ Study Log
@@ -63,4 +65,5 @@ Beakjoon Online Judge 문제풀이 - C++
 > 2021-08-26-THU #1202 보석 도둑
 > 2021-08-31-TUE #1717 집합의 표현
 > 2021-09-01-WED #2252 줄 세우기
+> 2021-09-09-THU #1197 최소 스패닝 트리
 > ```
