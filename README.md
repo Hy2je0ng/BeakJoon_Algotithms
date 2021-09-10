@@ -43,6 +43,8 @@ Beakjoon Online Judge 문제풀이 - C++
 
 [1197 최소 스패닝 트리](./1197_최소스패닝트리.cpp)　|　[HYEZ_DEV VELOG](https://velog.io/@hyez_dev/%EB%B0%B1%EC%A4%80-1197-%EC%B5%9C%EC%86%8C-%EC%8A%A4%ED%8C%A8%EB%8B%9D-%ED%8A%B8%EB%A6%AC-C)
 
+[1753 최단 경로](./1753_최단경로.cpp)　|　[HYEZ_DEV VELOG](https://velog.io/@hyez_dev/%EB%B0%B1%EC%A4%80-1753-%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C-C)
+
 <br>
 
 ## ◾ Study Log
@@ -66,4 +68,6 @@ Beakjoon Online Judge 문제풀이 - C++
 > 2021-08-31-TUE #1717 집합의 표현
 > 2021-09-01-WED #2252 줄 세우기
 > 2021-09-09-THU #1197 최소 스패닝 트리
+> 2021-09-09-THU #1922 네트워크연결
+> 2021-09-10-FRI #1753 최단 경로
 > ```
